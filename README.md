@@ -67,7 +67,7 @@ ______Median = 3.0
  2. copy **pystats.py** to that folder. PowerShell `cp pystats.py ~/bin`
  3. add `C:/Users/YOURNAME/bin` to `PATH` variable
  4. add `.py` to `PATHEXT` variable to make python script executable
-
+ 5. choose `python.exe` as the default program to open `.python` file
 
 ### Dependencies
 * None
